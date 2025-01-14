@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+# Halo semua! 
+
+Perkenalkan nama saya **Alfhiandi Saputra**.<br>
+
+Saya seorang **Full-Stack Developer** <br>
+
+Saya juga memiliki kemampuan dalam bidang **Network Engineer**.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/Alfhiandi-Saputra/)ku ya.
+
+
+
 <!--
 **Alfitechskills/Alfitechskills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
