@@ -8,7 +8,7 @@ Saya seorang **Full-Stack Developer** <br>
 
 Saya juga memiliki kemampuan dalam bidang **Network Engineer**.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/alfhiandi-saputra-52b976313) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([www.linkedin.com/in/alfhiandi-saputra-52b976313](https://www.linkedin.com/in/alfhiandi-saputra-52b976313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) ku ya.
 
 
 
